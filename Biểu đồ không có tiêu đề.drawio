@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T14:49:53.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9jqTEV1roSsKDKQyvqW5" version="20.8.20" type="github"><diagram name="Trang-1" id="g-sE_o_tMRhYuUjUanBY">ddHBDsIgDADQr+HOIIt6nlMvnnbwTEYFErYuDLPp17sF5iTTE/DaUlIIL5rx7ESnryjBEkblSPiRMJaxA52WWZ5B8h0PoJyRMWmFyrwgYqxTDyOhTxI9ovWmS7HGtoXaJyacwyFNu6NNu3ZCwQaqWtit3oz0Oug+p6tfwCi9dM5ojDRiSY7QayFx+CJeEl44RB92zViAnYe3zCXUnf5EPw9z0PofBdNmvXs6JD/Eyzc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-14T15:08:32.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iLiN-yjski9KHTZipR0_" version="20.8.20" type="github">
+  <diagram name="Trang-1" id="g-sE_o_tMRhYuUjUanBY">
+    <mxGraphModel dx="1290" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-1" value="Sinh viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-2" value="Giảng viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-3" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;E&amp;amp;M&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;(Exam &amp;amp; manage)&lt;/b&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="460" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
