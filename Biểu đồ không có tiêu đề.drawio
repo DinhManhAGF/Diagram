@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T15:38:22.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gx5PGIbGnDaYXOnJ_5gp" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T15:42:00.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FrPZkdEMbyYbbc-Tcai7" version="20.8.20" type="github">
   <diagram name="Trang-1" id="g-sE_o_tMRhYuUjUanBY">
     <mxGraphModel dx="1290" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="220" y="110" width="460" height="500" as="geometry" />
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-13" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-1" target="FMET1eLDLGnvmdmq2ldW-13">
           <mxGeometry relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-19" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-20" value="Tạo bài kiểm &lt;br&gt;tra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="90" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="520" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Trích xuất kết quả thành file pdf&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMET1eLDLGnvmdmq2ldW-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-1" target="FMET1eLDLGnvmdmq2ldW-25">
           <mxGeometry relative="1" as="geometry">
@@ -78,6 +78,36 @@
             <mxPoint x="165" y="230" as="sourcePoint" />
             <mxPoint x="320" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-32" value="Thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-20" target="FMET1eLDLGnvmdmq2ldW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="sourcePoint" />
+            <mxPoint x="825" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-32" target="FMET1eLDLGnvmdmq2ldW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="835" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-22" target="FMET1eLDLGnvmdmq2ldW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="350" as="sourcePoint" />
+            <mxPoint x="845" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FMET1eLDLGnvmdmq2ldW-23" target="FMET1eLDLGnvmdmq2ldW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="360" as="sourcePoint" />
+            <mxPoint x="855" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMET1eLDLGnvmdmq2ldW-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Xem lịch học ,thi, thời khóa biểu&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
